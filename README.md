@@ -33,7 +33,7 @@ This project uses Microsoft Power BI to analyze retail sales performance and gen
 * Microsoft Power BI
   
 ## Dashboard Preview
-![Power BI Sales Dashboard](Retail%20sales%20dashboard.png)
+![Power BI Sales Dashboard](Sales%20Dashboard.jpeg)
 
 ## Conclusion
 
